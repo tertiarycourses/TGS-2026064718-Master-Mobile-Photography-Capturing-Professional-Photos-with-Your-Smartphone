@@ -1,7 +1,7 @@
 # Courseware QA Report — v12.0
 
 Course: Master Mobile Photography: Capturing Professional Photos with Your Smartphone  
-Course code: TGS-2022015227  
+Course code: TGS-2026064718
 QA date: 19 August 2026
 
 ## Outcome
@@ -17,6 +17,7 @@ PASS — release-ready, subject to destination-side publication checks.
 - Activities: eight individual real-use-case folders; 41 Markdown files have 41 same-basename PDFs; every activity includes a detailed guide, checklist, cheat sheet, evidence log and sample photo.
 - Assessments: four DOCX instruments; WA has eight K1–K8 questions, PP has three A1–A7 tasks, and the two trainer-only answer keys are separate. All four pass the WSQ assessment structural verifier.
 - Office validation: final PPTX, LG DOCX, LP DOCX and all four assessment DOCX files pass strict package/XML validation.
+- Course identity: the rebuilt PPTX, PDFs, DOCX files, activities and assessments consistently identify the active TMS/GitHub course as `TGS-2026064718`; no conflicting course identifier remains in the release artifacts.
 - Visual QA: full-deck contact sheets plus representative full-size slide, document, assessment and activity-PDF renders were inspected. A source-slide overlap and PP numbering continuation were found, fixed and re-verified.
 
 ## Release notes

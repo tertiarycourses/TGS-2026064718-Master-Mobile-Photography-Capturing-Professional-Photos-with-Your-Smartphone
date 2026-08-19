@@ -1,6 +1,6 @@
 # Master Mobile Photography: Capturing Professional Photos with Your Smartphone
 
-**Course code:** TGS-2022015227  
+**Course code:** TGS-2026064718
 **TSC:** Camera Operations (MED-MPN-3034-1.1)  
 **Version:** v12.0 · 19 August 2026
 

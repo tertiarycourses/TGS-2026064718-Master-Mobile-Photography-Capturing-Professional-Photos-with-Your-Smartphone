@@ -1,6 +1,6 @@
 # Course Activities — Master Mobile Photography: Capturing Professional Photos with Your Smartphone
 
-Course code: TGS-2022015227
+Course code: TGS-2026064718
 
 Each activity is self-contained and includes a detailed guide, printable checklist, cheat sheet, evidence log and photorealistic reference photo.
 
